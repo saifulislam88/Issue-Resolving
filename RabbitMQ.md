@@ -7,4 +7,4 @@ $ hostname
 $ sudo vim /etc/hosts
 $ 127.0.0.1 <hostname>
 $ sudo service rabbitmq-server start
-sh
+```
