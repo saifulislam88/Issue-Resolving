@@ -4,7 +4,7 @@
 
 
 [Rabbitmq](#Rabbitmq)
-- [Issue 1:** Unable to start rabbitmq-server on Ubuntu 22.04](#issue-1-unable-to-start-rabbitmq-server-on-ubuntu-2204)
+- [Issue:1.Unable to start rabbitmq-server on Ubuntu 22.04](#issue-1-unable-to-start-rabbitmq-server-on-ubuntu-2204)
 
 
 
